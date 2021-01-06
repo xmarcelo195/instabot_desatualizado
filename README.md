@@ -1,4 +1,4 @@
-#instabot
+instabot
 
 Bot para instagram que baixava texto e imagens de receitas de sobremesas e repostava em horários específicos. 
 
